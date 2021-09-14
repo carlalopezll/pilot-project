@@ -2,7 +2,6 @@
 portal_data_joined.csv
 
 # Suppress file by type
-*.csv
 *.RData
 *.pdf
 *.jpg

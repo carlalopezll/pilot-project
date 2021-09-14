@@ -6,3 +6,6 @@ str(dat)
 
 # Subset data
 new <- subset()
+
+# Calculating new variables and adding a new column
+dat$ratio
